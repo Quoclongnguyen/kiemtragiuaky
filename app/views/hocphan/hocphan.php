@@ -163,6 +163,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['deleteAll'])) {
     </form>
 
     <br>
-    <a href="../../index.php" class="btn-back">Quay lại</a>
+    <a href="/index.php" class="btn-back">Quay lại</a>
+
 </body>
 </html>
